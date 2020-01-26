@@ -24,7 +24,7 @@ public class MakeChange {
 		} else if (amountPaid == price) {
 			System.out.println("Wow, you paid exactly enough! No change for you.");
 		} else {
-			System.out.println("I'm sorry. I don't recognize that.");
+			System.err.println("I'm sorry. I don't recognize that.");
 		}
 	}
 
