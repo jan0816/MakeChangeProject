@@ -13,7 +13,9 @@ This application allows a user to utilize a **cash register** by calculating the
 -Eclipse
 
 ### Lessons Learned:
-- 
+- **PARAMETERS**: I learned how to call a variable from a main method and use it as a parameter in another method.
+- **RETURNS**: I learned how to use other types of method variables (other than main) i.e. String method and have it return the value elsewhere.
+
 
 ### Problems/Resolutions:
 - Getting the clients to be able to see plural forms of certain types of coins when getting their change back. 
