@@ -19,4 +19,4 @@ This application allows a user to utilize a **cash register** by calculating the
 
 ### Problems/Resolutions:
 - Getting the clients to be able to see plural forms of certain types of coins when getting their change back. 
-- Resolved by: 
+- Resolved by: Declaring another *if* statement to distinguish between penny and pennies.
